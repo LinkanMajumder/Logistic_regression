@@ -1,1 +1,1 @@
-\chapter{: Logistic Regression with Regularization}
+#Logistic Regression 
